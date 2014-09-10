@@ -40,9 +40,7 @@ Resources [Learning sitar]
 *   [Chandrakantha sitar discussion forum](http://forums.chandrakantha.com/viewforum.php?f=2): If you have a question about the sitar or sitar music, ask it here. Ground zero of the sitar universe!
 *   [Sitar Information Page](http://www.sitar-tabla.com/sitar-information.htm): A very practical guide to tuning, tying frets, threading strings, maintaining the bridge (jawari), wearing mizrabs (finger picks), and sitar making.
 *   [Shastri Indo-Canadian Institute](http://www.sici.org/home/): Canadian citizens can apply for an [Arts Fellowship](http://www.sici.org/programmes/for-canadians/) which can cover the cost of up to one year's music study in India.
-*   [Fix a cracked or smashed 
-*   gourd](http://forums.chandrakantha.com/viewtopic.php?f=2&t=13083&sid=10498a890d6fae7c24492a465139ca52): Tony Karasek's comprehensive post on
-*   how to fix a cracked tumba.
+*   [Fix a cracked or smashed gourd](http://forums.chandrakantha.com/viewtopic.php?f=2&t=13083&sid=10498a890d6fae7c24492a465139ca52): Tony Karasek's comprehensive post on   how to fix a cracked tumba.
 
 Software and gear [Learning sitar]
 ----------------------------------
