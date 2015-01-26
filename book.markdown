@@ -89,6 +89,18 @@ Not just a classical instrument, the sitar plays an illustrious and charming fea
 *   [Ananda Shankar](http://www.amazon.com/gp/product/B000CQO1E8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kittykatattac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000CQO1E8)
 *   [Psychedelic Jukebox radio.](http://www.psychedelicjukebox.com/) You'll hear lots of sitar in a pop/rock context on this internet radio station.	
 
+Sheet Music [Music]
+
+If you're looking for sheet music in western music notation for a
+sitar/guitar duet, you'll find it here:
+
+* [Summer's End](pdf/Summers_End.pdf): Based on Raag Hamamsadvhani (The Song of the Swan) in the key of D. 
+* [In Groves of Wild Almond](pdf/In_Groves_Of_Wild_Almond): Based on Raag Kafi in the key of D.
+
+Both pieces were written by Rex van der Spuy, and can be played with
+improvised tabla accomaniment. Although they were originally written
+for sitar and guitar, they could work as a duet between any melody instruments. Violin and flute would sound nice! 
+
 Video resources [Video]
 -----------------------
 
