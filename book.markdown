@@ -133,6 +133,6 @@ If you can't find a Hiren Roy, you might be lucky and find an old Kanai Lal and 
 
 Third up: Rihki Ram. However, make sure it was made before 1974. The early Rikhi Ram sitars were of equal quality to Hiren Roy or Kanai Lal and Brother, but their quality plummeted after 1974. 
 
-If you're not able to find or afford any of the sitars above, consider a reasonably priced modern sitar made by Ibrahim Bashir or Waseem Sitarmaker. Both of these makers produce good quailty instruments, and occaisionally exceptional ones. They gernerally don't have that extra dimension of tone that you find in a Hiren Roy or Kanai Lal and Brother, but they're well made and finished.
+If you're not able to find or afford any of the sitars above, consider a reasonably priced modern sitar made by Ibrahim Bashir or Waseem Sitarmaker. Both of these makers produce good quailty instruments, and occaisionally exceptional ones. They gernerally don't have that extra dimension of tone that you find in a Hiren Roy or Kanai Lal and Brother, but they're well made and finished. And, you might get lucky end up with a real gem.
 
 
