@@ -131,7 +131,7 @@ Which sitar should you buy? Hiren Roy sitars are the best available.  They have 
 
 If you can't find a Hiren Roy, you might be lucky and find an old Kanai Lal and Brother sitar, although they're very rare. They sound as good and are probably even better made than Hiren Roy. Kanai Lal and Brother were actively making sitars between about 1950 to 1970. (Note: Kanai Lal and Brother sitars are not in any way connected to currently manufactured "Kanai Lal" sitars, which are far inferior.) An early 60's Kanai Lal and Brother sitar owned by my first sitar teacher is to this day still the best sounding sitar I've ever heard.
 
-Third up: Rihki Ram. However, make sure it was made **before 1974**. The early Rikhi Ram sitars were of equal quality to Hiren Roy or Kanai Lal and Brother, but their quality plummeted after 1974. 
+Third up: Rihki Ram. However, make sure it was made before 1974. The early Rikhi Ram sitars were of equal quality to Hiren Roy or Kanai Lal and Brother, but their quality plummeted after 1974. 
 
 If you're not able to find or afford any of the sitars above, consider a reasonably priced modern sitar made by Ibrahim Bashir or Waseem Sitarmaker. Both of these makers produce good quailty instruments, and occaisionally exceptional ones. They gernerally don't have that extra dimension of tone that you find in a Hiren Roy or Kanai Lal and Brother, but they're well made and finished.
 
