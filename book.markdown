@@ -92,15 +92,13 @@ Not just a classical instrument, the sitar plays an illustrious and charming fea
 Sheet Music [Music]
 ------------------
 
-If you're looking for sheet music in western music notation for a
-sitar/guitar duet, you'll find it here:
+If you're looking for sheet music in western music notation for a sitar/guitar duet, you'll find it here:
 
-* [Summer's End](pdf/Summers_End.pdf): Based on Raag Hamamsadvhani (The Song of the Swan) in the key of D. 
-* [In Groves of Wild Almond](pdf/In_Groves_Of_Wild_Almond): Based on Raag Kafi in the key of D.
+* [Summer's End](pdf/Summers_End.pdf): Based on Raag Hamamsadvhani (The Song of the Swan) in the key of D. Here's a [midi reference track] (midi/Summers_End.midi). 
+* [In Groves of Wild Almond](pdf/In_Groves_Of_Wild_Almond): Based on Raag Kafi in the key of D. Here's a [midi reference track](midi/In_Groves_Of_Wild_Almond.midi). 
 
-Both pieces were written by Rex van der Spuy, and can be played with
-improvised tabla accomaniment. Although they were originally written
-for sitar and guitar, they could work as a duet between any melody instruments. Violin and flute would sound nice! 
+Both pieces were written by Rex van der Spuy, and can be played with improvised tabla accomaniment. Although they were originally written
+for sitar and guitar, they could work as a duet for any melody instruments. Violin and flute would sound nice! 
 
 Video resources [Video]
 -----------------------
