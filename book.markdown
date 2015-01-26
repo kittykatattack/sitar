@@ -90,6 +90,7 @@ Not just a classical instrument, the sitar plays an illustrious and charming fea
 *   [Psychedelic Jukebox radio.](http://www.psychedelicjukebox.com/) You'll hear lots of sitar in a pop/rock context on this internet radio station.	
 
 Sheet Music [Music]
+------------------
 
 If you're looking for sheet music in western music notation for a
 sitar/guitar duet, you'll find it here:
