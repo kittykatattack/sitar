@@ -41,6 +41,7 @@ Resources [Learning sitar]
 *   [Sitar Information Page](http://www.sitar-tabla.com/sitar-information.htm): A very practical guide to tuning, tying frets, threading strings, maintaining the bridge (jawari), wearing mizrabs (finger picks), and sitar making.
 *   [Shastri Indo-Canadian Institute](http://www.sici.org/home/): Canadian citizens can apply for an [Arts Fellowship](http://www.sici.org/programmes/for-canadians/) which can cover the cost of up to one year's music study in India.
 *   [Fix a cracked or smashed gourd](http://forums.chandrakantha.com/viewtopic.php?f=2&t=13083&sid=10498a890d6fae7c24492a465139ca52): Tony Karasek's comprehensive post on   how to fix a cracked tumba.
+*   [How to tie sitar frets](https://www.youtube.com/watch?v=TzcQytmNcy8): Ajay Sharma's (of Rikhi Ram) comprehensive video on how to tie sitar frets. He makes it look easy - which it is!
 
 Software and gear [Learning sitar]
 ----------------------------------
@@ -48,7 +49,8 @@ Software and gear [Learning sitar]
 *   [iTabla Pro](http://www.itablapro.com): Superb tabla and tanpura software for iOS devices (iPhone and iPad) that's infinitely configurable.
 *   [Cleartune](http://www.bitcount.com): A software tuner for iOS devices that can accurately tune a sitar. Set the Temperament to Pythagorean Just and the Temperament Key to C# or D (whichever key your sitar is tuned to). Tune the Ga chikari string to about 20 cents less than what the tuner tells you. (You can't use a guitar tuner to tune a sitar, except for finding the root note, Sa (C# or D). That's because guitar tuners are calibrated to Equal Temperament, which is a compromise tuning system for harmony based music.)
 *   [Practice Pro](http://itunes.apple.com/us/app/practice-pro/id405586401?mt=8): iOS software that lets you  slow down and loop sections of recordings for transcription and learning.
-*   [Peterson Stroboclip Tuner](http://www.petersontuners.com/index.cfm?category=168): The only tuner with a specific setting for sitar.
+*   [Peterson Stroboclip Tuner](http://www.petersontuners.com/index.cfm?category=168): The only tuner with a specific setting for sitar. Also consider the Stroboclip's big sister the [Strobo Plus HD](http://www.petersontuners.com/products/stroboplus/).
+*   [Wittner "Suzuki Style" violin fine tuners (Model #901)](http://www.wittner-gmbh.de/cgi-bin/db_search_e.pl?rubrik=String%20Adjusters%20for%20Violin&gruppe=String%20Adjusters): Remove all the tuning beads from your sitar and add these "Suzuki Style" fine tuners to all 6 (or 7) of your main playing strings. Prepare to enter Sitar Tuning Nirvana! They solve all the tuning headaches from having to struggle with friction pegs. They can somtimes be difficult to find, but try your luck at Amazon and Ebay. (Wittner is the best brand on the market, and won't rust or jam.) 
 
 Commercial recordings [Music]
 -----------------------------
@@ -88,6 +90,7 @@ Not just a classical instrument, the sitar plays an illustrious and charming fea
 *   [Lord Sitar](http://www.amazon.com/gp/product/B00000J21O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kittykatattac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00000J21O)
 *   [Ananda Shankar](http://www.amazon.com/gp/product/B000CQO1E8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kittykatattac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000CQO1E8)
 *   [Psychedelic Jukebox radio.](http://www.psychedelicjukebox.com/) You'll hear lots of sitar in a pop/rock context on this internet radio station.	
+*   [Sitar music for space travel](https://soundcloud.com/sitarmusicforspacetravel) What it says on the tin!	
 
 Sheet Music [Music]
 ------------------
@@ -120,16 +123,21 @@ You'll find thousands of sitar related videos on YouTube. Here are some of the b
 Buying a sitar [Instruments]
 ----------------------------
 
-If you're looking to buy a sitar, the following dealers are the best. Sitar.co has used all of them.
+If you're looking to buy a sitar, strings or accessories, the following dealers are the best. Sitar.co has used all of them.
 
 *   [Delhi Music Stores](http://www.indianmusicalinstruments.com/). DMS will ship anywhere in the world with FedEx. Ask for their Ibrahim Bashir sitars.
-*   [Rain City Music](http://www.sitar-tabla.com/). All their stock is personally curated by the owner, Lars Jacobsen, from the best instruments available.
-*   [Ali Akbar College of Music Store](http://www.aacm.org/shop/). A great place to buy Hiren Roy and Rikhi Ram sitars, and the best place to order strings.
+*   [Rain City Music](http://www.sitar-tabla.com/). The best place to buy a new sitar. All their stock is personally curated by the owner, Lars Jacobsen, from the best instruments available.
+*   [Musician's Mall](http://www.musiciansmallusa.com) (Formerly the Ali Akbar Khan College Store). A new US based sitar and Indian instrument reseller.
 *   [Tony Karasek](http://www.karaseksound.com). Tony is a legend. If your sitar needs fixing, and you're not in India, send it to Tony. He also specializes in custom Delrin sitar bridges that don't require any maintenance. Want a custom made sitar of the highest quality? Tony will make one for you. Check out his [website](http://www.karaseksound.com) or [send him an email](horsley42@gmail.com).
 
-Which sitar should you buy? Hiren Roy sitars are the best available.  They have a unique, magical tone and are truly in a class of their own. Even though the average Hiren Roy currently costs about $2,500, they hold their value. If you need to, you'll be able to sell it for the same price, or at a profit. Even if you're a student just starting to learn, do yourself a favour and get a Hiren Roy!  They're easier to play and control and much more responsive than any other sitar on the market. 
+Which sitar should you buy? Hiren Roy sitars are currently the best available.  They have a unique, magical tone and are truly in a class of their own. Even though the average Hiren Roy currently costs about $2,500, they hold their value. If you need to, you'll be able to sell it for the same price, or at a profit. Even if you're a student just starting to learn, do yourself a favour and get a Hiren Roy!  They're easier to play and control and much more responsive than any other sitar on the market. 
 
-If you can't find a Hiren Roy, you might be lucky and find an old Kanai Lal and Brother sitar, although they're very rare. They sound as good and are probably even better made than Hiren Roy. Kanai Lal and Brother were actively making sitars between about 1950 to 1970. (Note: Kanai Lal and Brother sitars are not in any way connected to currently manufactured "Kanai Lal" sitars, which are far inferior.) An early 60's Kanai Lal and Brother sitar owned by my first sitar teacher is to this day still the best sounding sitar I've ever heard.
+Update: However, as of early 2015, I can no longer recommend buying a new
+Hiren Roy. Quality of new instruments has plummeted, and the shop now
+produces as many duds as winners. Possibly the reason for this is that
+the head craftsman who worked in the Hiren Roy shop (and was the person who actually made all the instruments himself) finally retired. So, sadly, it seems the Hiren Roy era for new sitars is finally really over. 
+
+If you can't find a Hiren Roy, you might be lucky and find an old Kanai Lal and Brother sitar, although they're very rare. They sound as good and are probably even better made than Hiren Roy. Kanai Lal and Brother were actively making sitars between about 1950 to 1970. (Note: Kanai Lal and Brother sitars are not in any way connected to currently manufactured "Kanai Lal" sitars.) An early 60's Kanai Lal and Brother sitar owned by my first sitar teacher is to this day still the best sounding sitar I've ever heard.
 
 Third up: Rihki Ram. However, make sure it was made before 1974. The early Rikhi Ram sitars were of equal quality to Hiren Roy or Kanai Lal and Brother, but their quality plummeted after 1974. 
 
