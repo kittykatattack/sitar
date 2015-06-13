@@ -83,15 +83,7 @@ Non-commercial recordings [Music]
 
 Many classic out-of-print and LP only recordings are available [here](http://oriental-traditional-music.blogspot.in).
 
-[Subrata
-Chowdhury](https://www.youtube.com/channel/UCjTZsoYEKdqaqwgtQZqVS3A)
-has been uploading an astonishing collection of never-before-heard
-private house-concert recordings and All India Radio (AIR) broadcasts
-of Indian classical musicians at the top of their game. Among the
-gems is a breathtaking performance of [Bilaskahni Todi by Vilayat
-Khan](https://www.youtube.com/watch?v=_QmJQVC5A1U), which ranks among
-the best performances of his career, and one of the best sitar
-performances you'll hear.
+[Subrata Chowdhury](https://www.youtube.com/channel/UCjTZsoYEKdqaqwgtQZqVS3A) has been uploading an astonishing collection of never-before-heard private house-concert recordings and All India Radio (AIR) broadcasts of Indian classical musicians at the top of their game. Among the gems is a breathtaking performance of [Bilaskahni Todi by Vilayat Khan](https://www.youtube.com/watch?v=_QmJQVC5A1U), which ranks among the best performances of his career, and one of the best sitar performances you'll hear.
 
 Many of the best recordings of sitar music are [orphaned works](http://en.wikipedia.org/wiki/Orphan_works). Visit the [sitar music orphanage](http://www.sitar.co/orphanage) to listen to them. [Contact sitar.co](mailto:info@sitar.co?Subject=Enquiry from Sitar.co) to claim parentage or to submit a recording for adoption.
 
