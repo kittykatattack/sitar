@@ -111,7 +111,7 @@ Video resources [Video]
 
 You'll find thousands of sitar related videos on YouTube. Here are some of the best to help get you started.
 
-*   Concert for Bangladesh: Ravi Shankar (sitar), Ali Akbar Khan (sarod), Allah Rakha (tabla). This video is regularly deleted from YouTube, but try and do a web search for it and you might find it. The famous performance at the Concert for Bangladesh it's amazing.
+*   Concert for Bangladesh: Ravi Shankar (sitar), Ali Akbar Khan (sarod), Allah Rakha (tabla). This video is regularly deleted from YouTube, but try and do a web search for it and you might find it - it's amazing.
 *   [Introduction to the sitar and Indian music](https://www.youtube.com/watch?v=X0fSUOiar0k). A documentary featuring Ravi Shankar explaining the sitar and the basics of Indian music.
 *   [That Which Colors the Mind](https://www.youtube.com/watch?v=mYa1dtqoyaE). Steven Baigal's work-in-progress documentary about sitarist Nikhil Banerjee.
 *   [Anoushka Shankar profile](http://www.youtube.com/watch?v=Pg8pxoNxIuQ). A short documentary about sitarist Anoushka Shankar.
