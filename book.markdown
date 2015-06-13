@@ -73,10 +73,7 @@ If you're new to the sitar and sitar music, here are the all-time must-have sita
 
 It can be difficult to find good quality sitar music or videos on the internet, but the best place to start is a very specialized [Google Music Search](http:/googlemusicsearch.com). (You probably didn't know about this!)
 
-And, make sure you spend an afternoon perusing the epic [Identifying
-Definitive Recordings - Must Listen
-List](http://forums.chandrakantha.com/viewtopic.php?f=2&t=10263) on
-[Chandrakhanta's sitar forum](http://forums.chandrakantha.com/viewforum.php?f=2). It's 25 pages long and growing!
+And, make sure you spend an afternoon perusing the epic [Identifying Definitive Recordings - Must Listen List](http://forums.chandrakantha.com/viewtopic.php?f=2&t=10263) on [Chandrakhanta's sitar forum](http://forums.chandrakantha.com/viewforum.php?f=2). It's 25 pages long and growing!
 
 Non-commercial recordings [Music]
 ---------------------------------
