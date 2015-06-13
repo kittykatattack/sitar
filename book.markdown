@@ -71,12 +71,27 @@ If you're new to the sitar and sitar music, here are the all-time must-have sita
 *   [Vilayat Khan: Darbari Kanada](http://ghostcapital.blogspot.de/2012/08/ustad-vilayat-khan-supreme-genius-of.html)
 *   [Vilayat Khan: Yaman (1968)](http://dl.dropbox.com/u/30101777/UVK%20YAMAN.zip)
 
-It can be difficult to find good quality sitar music or videos on the internet, but the the best place to start is a very specialized [Google Music Search](http:/googlemusicsearch.com). (You probably didn't know about this!)
+It can be difficult to find good quality sitar music or videos on the internet, but the best place to start is a very specialized [Google Music Search](http:/googlemusicsearch.com). (You probably didn't know about this!)
+
+And, make sure you spend an afternoon perusing the epic [Identifying
+Definitive Recordings - Must Listen
+List](http://forums.chandrakantha.com/viewtopic.php?f=2&t=10263) on
+[Chandrakhanta's sitar forum](http://forums.chandrakantha.com/viewforum.php?f=2). It's 25 pages long and growing!
 
 Non-commercial recordings [Music]
 ---------------------------------
 
 Many classic out-of-print and LP only recordings are available [here](http://oriental-traditional-music.blogspot.in).
+
+[Subrata
+Chowdhury](https://www.youtube.com/channel/UCjTZsoYEKdqaqwgtQZqVS3A)
+has been uploading an astonishing collection of never-before-heard
+private house-concert recordings and All India Radio (AIR) broadcasts
+of Indian classical musicians at the top of their game. Among the
+gems is a breathtaking performance of [Bilaskahni Todi by Vilayat
+Khan](https://www.youtube.com/watch?v=_QmJQVC5A1U), which ranks among
+the best performances of his career, and one of the best sitar
+performances you'll hear.
 
 Many of the best recordings of sitar music are [orphaned works](http://en.wikipedia.org/wiki/Orphan_works). Visit the [sitar music orphanage](http://www.sitar.co/orphanage) to listen to them. [Contact sitar.co](mailto:info@sitar.co?Subject=Enquiry from Sitar.co) to claim parentage or to submit a recording for adoption.
 
