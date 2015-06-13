@@ -51,6 +51,7 @@ Software and gear [Learning sitar]
 *   [Practice Pro](http://itunes.apple.com/us/app/practice-pro/id405586401?mt=8): iOS software that lets you  slow down and loop sections of recordings for transcription and learning.
 *   [Peterson Stroboclip Tuner](http://www.petersontuners.com/index.cfm?category=168): The only tuner with a specific setting for sitar. Also consider the Stroboclip's big sister the [Strobo Plus HD](http://www.petersontuners.com/products/stroboplus/).
 *   [Wittner "Suzuki Style" violin fine tuners (Model #901)](http://www.wittner-gmbh.de/cgi-bin/db_search_e.pl?rubrik=String%20Adjusters%20for%20Violin&gruppe=String%20Adjusters): Remove all the tuning beads from your sitar and add these "Suzuki Style" fine tuners to all 6 (or 7) of your main playing strings. Prepare to enter Sitar Tuning Nirvana! They solve all the tuning headaches from having to struggle with friction pegs. They can sometimes be difficult to find, but try your luck at Amazon and Ebay. (Wittner is the best brand on the market, and won't rust or jam.) 
+
 Commercial recordings [Music]
 -----------------------------
 
