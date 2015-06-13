@@ -94,7 +94,8 @@ Not just a classical instrument, the sitar plays an illustrious and charming fea
 *   [Lord Sitar](http://www.amazon.com/gp/product/B00000J21O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kittykatattac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B00000J21O)
 *   [Ananda Shankar](http://www.amazon.com/gp/product/B000CQO1E8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=kittykatattac-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000CQO1E8)
 *   [Psychedelic Jukebox radio.](http://www.psychedelicjukebox.com/) You'll hear lots of sitar in a pop/rock context on this internet radio station.	
-*   [Sitar music for space travel](https://soundcloud.com/sitarmusicforspacetravel) What it says on the tin!	
+*   [Sitar music for space
+*   travel](https://soundcloud.com/sitarmusicforspacetravel). What it says on the tin!	
 
 Sheet Music [Music]
 ------------------
