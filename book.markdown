@@ -111,14 +111,15 @@ Video resources [Video]
 
 You'll find thousands of sitar related videos on YouTube. Here are some of the best to help get you started.
 
-*   [Ravi Shankar (sitar), Ali Akbar Khan (sarod), Allah Rakha (tabla)](http://www.youtube.com/watch?v=nYKPEQ1fRi8). The famous performance at the Concert for Bangladesh.
-*   [Introduction to the sitar and Indian music](http://www.youtube.com/watch?v=F3ST1sgBlsI). A documentary featuring Ravi Shankar explaining the sitar and the basics of Indian music.
-*   [That Which Colors the Mind](http://www.youtube.com/watch?feature=player_embedded&v=xOKpQrNDpaw). Steven Baigal's work-in-progress documentary about sitarist Nikhil Banerjee.
+*   Concert for Bangladesh: Ravi Shankar (sitar), Ali Akbar Khan (sarod), Allah Rakha (tabla). This video is regularly deleted from YouTube, but try and do a web search for it and you might find it. The famous performance at the Concert for Bangladesh it's amazing.
+*   [Introduction to the sitar and Indian music](https://www.youtube.com/watch?v=X0fSUOiar0k). A documentary featuring Ravi Shankar explaining the sitar and the basics of Indian music.
+*   [That Which Colors the Mind](https://www.youtube.com/watch?v=mYa1dtqoyaE). Steven Baigal's work-in-progress documentary about sitarist Nikhil Banerjee.
 *   [Anoushka Shankar profile](http://www.youtube.com/watch?v=Pg8pxoNxIuQ). A short documentary about sitarist Anoushka Shankar.
 *   [Ustad Allaudin Khan](http://www.youtube.com/watch?v=1alFUQfe1Dw&feature=player_embedded). A documentary from 1963 about Allaudin Khan, the teacher of Ravi Shankar and Nikhil Banerjee.
 *   [Imrat Khan masterclass](http://www.youtube.com/playlist?list=PL13151C96CB86BF51)
 *   [Nikhil Banerjee on UK TV](http://www.youtube.com/playlist?list=PL52444602B239E161)
 *   [Irshad Khan plays Aliyah Bilawal](http://www.youtube.com/playlist?list=PLB4062BF4F3ED57B9)
+*   [Part 1](https://www.youtube.com/watch?v=uAA8RyMjj9A) and [Part 2](https://www.youtube.com/watch?v=kTCQlhPrVuo) of Irshad Khan's outstanding performance of Raag Darbari on the surbahar (bass sitar).
 *   [Sahana Banerjee, Shyamkalyan](http://www.youtube.com/watch?v=37L2JvLZP7M). Superb contemporary sitarist Sahana Banerjee plays raag Shyamkalyan.
 *   [Abdul Halim Jaffir Khan](http://www.youtube.com/watch?v=S4fWzAJHt7E). This highly original and under-appreciated sitarist performs in the 1960's documentary "Raga".
 *   [Question and Answer](http://www.youtube.com/watch?v=0TtoLcA_BUQ). A fun traditional _sawal jawab_ (question and answer) by two students.
