@@ -46,12 +46,130 @@ Resources [Learning sitar]
 Software and gear [Learning sitar]
 ----------------------------------
 
-*   [iTabla Pro](http://www.itablapro.com): Superb tabla and tanpura software for iOS devices (iPhone and iPad) that's infinitely configurable.
-*   [Cleartune](http://www.bitcount.com): A software tuner for iOS devices that can accurately tune a sitar. Set the Temperament to Pythagorean Just and the Temperament Key to C# or D (whichever key your sitar is tuned to). Tune the Ga chikari string to about 20 cents less than what the tuner tells you. (You can't use a guitar tuner to tune a sitar, except for finding the root note, Sa (C# or D). That's because guitar tuners are calibrated to Equal Temperament, which is a compromise tuning system for harmony based music.)
-*   [Practice Pro](http://itunes.apple.com/us/app/practice-pro/id405586401?mt=8): iOS software that lets you slow down and loop sections of recordings for transcription and learning.
-*   [Peterson Stroboclip Tuner](http://www.petersontuners.com/index.cfm?category=168): The only tuner with a specific setting for sitar. Also consider the Stroboclip's big sister the [Strobo Plus HD](http://www.petersontuners.com/products/stroboplus/).
-*   [Wittner "Suzuki Style" violin fine tuners (Model #901)](http://www.wittner-gmbh.de/cgi-bin/db_search_e.pl?rubrik=String%20Adjusters%20for%20Violin&gruppe=String%20Adjusters): Remove all the tuning beads from your sitar and add these fine tuners to all 6 (or 7) of your main playing strings. Prepare to enter Sitar Tuning Nirvana! They solve all the tuning headaches from having to struggle with friction pegs. Unlike other violin fine tuners, "Suzuki style" tuners attach directly to the strings and don't require a supporting bridge or any modification to the sitar. They can sometimes be difficult to find, but try your luck at Amazon and Ebay. Wittner is the best brand on the market, and won't rust or jam. 
-*   [Senheizer MD421 Microphone](http://en-us.sennheiser.com/recording-microphone-broadcasting-applications-md-421-ii): The best microphone for recording sitar - both in studio and on stage. Why? It's warm, clear and sensitive enough to pick up the complexity and wide dynamic tonal range of a sitar, but remains completely resistant to feedback. It's the only microphone you'll ever need. Put it in your backpack and travel the world!
+- [iTabla Pro](http://www.itablapro.com): Superb tabla and tanpura software for iOS devices (iPhone and iPad) that's infinitely configurable.
+- [Practice Pro](http://itunes.apple.com/us/app/practice-pro/id405586401?mt=8): iOS software that lets you slow down and loop sections of recordings for transcription and learning.
+- [Wittner "Suzuki Style" violin fine tuners (Model
+  #901)](http://www.wittner-gmbh.de/cgi-bin/db_search_e.pl?rubrik=String%20Adjusters%20for%20Violin&gruppe=String%20Adjusters):
+  Remove all the tuning beads from your sitar and add these fine
+  tuners to all 6 (or 7) of your main playing strings. Prepare to
+  enter Sitar Tuning Nirvana! They solve all the tuning headaches from
+  having to struggle with friction pegs. Unlike other violin fine
+  tuners, "Suzuki style" tuners attach directly to the strings and
+  don't require a supporting bridge or any modification to the sitar.
+  They can sometimes be difficult to find, but try your luck at Amazon
+  and Ebay.[Lemuel Violins]() in Canada seems to have consistent
+  stock, and is usually where I order mine from (Lemuel Violins ships
+  internationally.) Wittner is the best brand on the market, and won't rust or jam. 
+
+###Microphones and pickups for recording and performing
+
+The [Senheizer MD421
+Microphone](http://en-us.sennheiser.com/recording-microphone-broadcasting-applications-md-421-ii)
+is possibly the best microphone ever made. And certainly, it's the best for
+recording a sitar in a studio or amplifying it on stage. Why? It's
+like an acoustic mirror: it's
+warm, clear, totally transparent, and sensitive enough
+to pick up the complexity, detail and wide dynamic tonal range of a
+sitar. It's also the only microphone I've ever used in which the recording didn't require EQ, compression or reverb to add body
+and presence to the tone - it's perfect right out of the box. If your playing sounds bad through an MD421 - it's because your
+playing is bad!
+As a bonus, the MD421 is also completely resistant to feedback on stage, so
+you can use it in most difficult on-stage sound situations where you would otherwise need a pickup.
+The Senheizer MD421 is the only microphone you'll ever need. Put it in your backpack and travel the world!
+
+However, in *extremely* difficult live sound environments you *will* need a
+pickup (also known as a contact microphone). A pickup turns your acoustic sitar into an electric sitar. The [Schatten AD-01
+Pickup](http://schattendesign.com/ad.htm) is the best available pickup
+for a sitar. In what kind of sound environment would you need one? The kind where you're playing with a live trance band on a tiny stage with a wall of speakers behind you blasting at 300db and thousands of screaming fans in front of you, some of whom might be
+  jumping onto the stage or throwing things. In cases like that, a
+  microphone is unusable - except perhaps as a form of self-defence.
+  But the Schatten AD-01 will save the day. You can plug any electric
+  guitar lead into it and play through an ordinary guitar amplifier or
+  PA, without requiring any extra power or a pre-amp. Attach the
+  pickup disk to the underside of the sitar's bridge (or on the
+  tabli just under the sympathetic string bridge) with some "acoustic instrument pickup putty", like this [Schertler putty](http://elderly.com/new_instruments/names/schertler-putty-for-dyn-series-pickups--DYNPUT.htm). The sound is
+  full, rich, saturated and the most natural sounding pickup I've
+  used. And, zero feedback - ever. 
+
+The disadvantage to a pickup, even a top-of-the-line one like the
+Schatten, is that you get a much flatter, less interesting, more
+two-dimensional sound than you with a good quality microphone
+like the Senheizer. It's like the difference between a Rembrandt (the
+Senheizer) and a Warhol (The Schatten) But, in bad, noisy live sound situations
+like rock clubs, you're never going to hear that extra detail anyway. And
+the girl at the sound desk is probably going to have to EQ the
+sitar into a extremely narrow frequency range, effectively killing all
+the interesting tones, so that it mixes
+properly with the rest of the band. Your sitar will sound harsh and
+tiny - in other words: exactly as it should when playing in a rock
+club. 
+band. So a pickup is just fine. Yes, you'll be using the divinely
+inspired Senheizer
+MD421 microphone for almost all your live performing and recording
+work - but keep the Schatten pickup in your back pocket; you never know when
+that live trance band will come knocking at your door! Hey, don't be
+surprised - they seem to
+like sitar players, and you'll have a lot of fun. 
+
+###Electronic Tuners
+
+The [Boss TU-80
+Tuner](http://www.bossus.com/products/tu-80/)
+is one of the few electronic tuners that can accurately distinguish
+the sitar's main tone from the other complex overtones a sitar
+produces. That means reliable, quick and accurate tuning with no
+back-talk. It just works. However, like
+most tuners, it's calibrated for [Equal Temperament, while the sitar
+uses Just Temperament](http://www.phy.mtu.edu/~suits/scales.html).
+That's no problem: *you can use an Equal Temperament tuner, like the
+Boss TU-80, with a Just Temperament tuned instrument like a sitar*. How?
+You just have to make small adjustments for the Ga
+and Dha notes: 
+
+- Tune natural Ga about 18 cents flat.
+- Tune flat (komal) Ga about 18 cents
+  sharp.
+- Tune natural Dha about 16 cents flat.
+
+That's it! Now your sitar will sound unbelievably and perfectly in tune!
+
+[Peterson Tuners](https://www.petersontuners.com) are interesting
+because they are the only tuners on the market that can tune a sitar
+using Just Temperament. All these tuners have a "SIT
+Sweetener" setting. If you select it and then set the transpose
+value to +1 (for C sharp) or +2 (for D) you have a sitar-ready
+tuner. Confusingly, but importantly: because of the transpose value, the tonic will display on the
+tuner as "C",
+even if the note you're tuning to is really C# (a transpose value of
++1), or D (a transpose value of +2). However, having used Peterson Strobo HD tuner for more than a
+year, I recommend you don't use Peterson tuners! 
+
+Why? Because all Peterson tuners I've used become confused by the
+sitar's complex harmonic overtones and can't find the
+main pitch: the wheel just spins and flickers most of the time. Also - *they're too
+precise*. Peterson tuners can tune to 0.1 cent accuracy.
+That's great, nice job Peterson! But, a sitar (or *any* string instrument, for that
+matter) is too unstable to tune to anything more precise than 3 cent
+accuracy. You're always going to have a natural variability of +/- 3 cents.
+That's no problem - that variability is imperceptible to the human ear
+under most conditions. However, the Peterson tuner will try and guide
+you to tune to the impossibly unattainable 0.1 cent accuracy. No
+matter how hard you try, every note you try to tune will will always
+appear to
+be slightly too sharp, or slightly too flat, according to the scientific,
+laboratory tested conditions under which Peterson calibrates its
+tuners to sub-atomic accuracy. This will drive you to the brink of
+madness! And, what's worse, it will trick your mind into thinking your sitar is horribly
+out of tune, when in fact it's perfectly in-tune.
+
+As a curiosity-driven deep dive into the world of Just Temperament
+tuning, go a ahead and try a Peterson (the [iStroboSoft](https://www.petersontuners.com/products/istrobosoft/) for iOS
+and Android devices is probably the best one.) It's interesting! 
+
+However, for the practical day-to-day job of tuning
+your sitar, just stick with the good old Boss TU-80 and adjust for the
+Ga and Dha notes as I've described. Your sitar will
+sound glorious!
 
 Commercial recordings [Music]
 -----------------------------
@@ -131,22 +249,71 @@ Buying a sitar [Instruments]
 
 If you're looking to buy a sitar, strings or accessories, the following dealers are the best. Sitar.co has used all of them.
 
-*   [Delhi Music Stores](http://www.indianmusicalinstruments.com/). DMS will ship anywhere in the world with FedEx. Ask for their Ibrahim Bashir sitars.
-*   [Rain City Music](http://www.sitar-tabla.com/). The best place to buy a new sitar. All their stock is personally curated by the owner, Lars Jacobsen, from the best instruments available.
-*   [Musician's Mall](http://www.musiciansmallusa.com) (Formerly the Ali Akbar Khan College Store). A new US based sitar and Indian instrument reseller.
-*   [Tony Karasek](http://www.karaseksound.com). Tony is a legend. If your sitar needs fixing, and you're not in India, send it to Tony. He also specializes in custom Delrin sitar bridges that don't require any maintenance. Want a custom made sitar of the highest quality? Tony will make one for you. Check out his [website](http://www.karaseksound.com) or [send him an email](horsley42@gmail.com).
+- [Rain City Music](http://www.sitar-tabla.com/). As of 2015, this is best place in
+  the world to buy a new sitar, period. And, it's the *only* place I can
+  unreservedly recommend. If you're looking for a real
+  instrument, not a just decorative item called a "sitar", Rain City Music
+  is the only place to seriously consider buying from. All their stock
+  is personally and lovingly and curated
+  by the owner, Lars Jacobsen, from the best instruments available in
+  India. All the best sitars in India end up at Rain City Music. Every sitar Lars stocks is guaranteed to be a high quality,
+  professionally made instrument, properly fitted and setup to be
+  playable right out of the box. If
+  you're not sure which sitar is best for you, write to Lars, tell
+  him your needs and he'll point you in the right direction. Don't
+  worry about the cost: because these are the best sitars available,
+  they'll retain their value for years and decades to come. That means, if you ever need to you'll be able to
+  re-sell your sitar at cost, or probably a even make a small profit. Rain City
+  Music ships everywhere in the world.
+- [Delhi Music Stores](http://www.indianmusicalinstruments.com/). DMS will ship anywhere in the world with FedEx. Ask for their Ibrahim Bashir sitars.
+- [Musician's Mall](http://www.musiciansmallusa.com) (Formerly the Ali
+  Akbar Khan College Store). A new US based sitar and Indian
+  instrument reseller. I haven't used them since their management
+  changed, so can't yet recommend them. 
+- [Tony Karasek](http://www.karaseksound.com). Tony is a legend. If
+  your sitar needs fixing, and you're not in India, send it to Tony.
+  He also specializes in custom Delrin sitar bridges that don't
+  require any maintenance. Tony pioneered the technical breakthrough
+  with Delrin bridges and they are a must-have for every
+  sitar. Do you want a custom made sitar of the highest quality? Tony
+  will make one for you! Check out his [website](http://www.karaseksound.com) or [send him an email](horsley42@gmail.com).
 
-Which sitar should you buy? Hiren Roy sitars are currently the best available.  They have a unique, magical tone and are truly in a class of their own. Even though the average Hiren Roy currently costs about $2,500, they hold their value. If you need to, you'll be able to sell it for the same price, or at a profit. Even if you're a student just starting to learn, do yourself a favour and get a Hiren Roy!  They're easier to play and control and much more responsive than any other sitar on the market. 
+Which sitar should you buy? Hiren Roy sitars are currently the best
+available. They have a unique, magical tone and are truly in a class
+of their own. Even though the average Hiren Roy currently costs about
+$2,500, they hold their value and are a fantastic investment. Even if you're a student just starting to learn, do yourself a favour and get a Hiren Roy! They're easier to play and control and much more responsive than any other sitar on the market. 
 
-Update: However, as of early 2015, I can no longer recommend buying a new
+UPDATE: However, as of early 2015, I can no longer recommend buying a new
 Hiren Roy. Quality of new instruments has plummeted, and the shop now
 produces as many duds as winners. Possibly the reason for this is that
-the head craftsman who worked in the Hiren Roy shop (and was the person who actually made all the instruments himself) finally retired. So, sadly, it seems the Hiren Roy era for new sitars is finally really over. 
+the head craftsman who worked in the Hiren Roy shop (and the person who actually made all the instruments himself) finally retired. So, sadly, it seems the Hiren Roy era for new sitars is finally really over. 
 
-If you can't find a Hiren Roy, you might be lucky and find an old Kanai Lal and Brother sitar, although they're very rare. They sound as good and are probably even better made than Hiren Roy. Kanai Lal and Brother were actively making sitars between about 1950 to 1970. (Note: Kanai Lal and Brother sitars are not in any way connected to currently manufactured "Kanai Lal" sitars.) An early 60's Kanai Lal and Brother sitar owned by my first sitar teacher is to this day still the best sounding sitar I've ever heard.
+If you can't find a Hiren Roy, you might be lucky and find an old
+Kanai Lal and Brother sitar, although they're very rare. They sound as
+good and are probably even better made than Hiren Roy. Kanai Lal and
+Brother were actively making sitars between about 1950 to 1970. (Note:
+Kanai Lal and Brother sitars are not in any way connected to currently
+manufactured "Kanai Lal" sitars - it's the "and Brother" you want.) An early 60's Kanai Lal and Brother sitar owned by my first sitar teacher is to this day still the best sounding sitar I've ever heard.
 
 Third up: Rihki Ram. However, make sure it was made before 1974. The early Rikhi Ram sitars were of equal quality to Hiren Roy or Kanai Lal and Brother, but their quality plummeted after 1974. 
 
-If you're not able to find or afford any of the sitars above, consider a reasonably priced modern sitar made by Ibrahim Bashir or Waseem Sitarmaker. Both of these makers produce good quality instruments, and occasionally exceptional ones. They generally don't have that extra dimension of tone that you find in a Hiren Roy or Kanai Lal and Brother, but they're well made and finished. And, you might get lucky end up with a real gem.
+If you're not able to find or afford any of the sitars above, consider
+a reasonably priced modern sitar made by Ibrahim Bashir or Waseem
+Sitarmaker. Both of these makers produce good quality instruments, and
+occasionally exceptional ones. They generally don't have that extra
+dimension of tone that you find in a Hiren Roy or Kanai Lal and
+Brother, but they're well made and finished. And, you might get lucky
+end up with a real gem.
+
+WARNING: I strongly advise you to not to personally buy a sitar in India: either from a
+sitar maker, at a music shop, or through Ebay. Most "sitars" for sale
+in India are poorly made wooden decorative items that look like
+musical instruments called sitars. Unless you have the experience to
+know the difference, or are prepared to be extremely disappointed, do
+not take the risk. Finding a good sitar in India is like looking for a
+needle in a haystack. Yes, they exist. Will you find one? Probably not. If
+you're serious about finding a real, playable instrument, go through a
+reliable reseller, like Rain City Music, who can guarantee that you get
+a quality instrument.
 
 
