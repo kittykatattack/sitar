@@ -48,25 +48,11 @@ Software and gear [Learning sitar]
 
 - [iTabla Pro](http://www.itablapro.com): Superb tabla and tanpura software for iOS devices (iPhone and iPad) that's infinitely configurable.
 - [Practice Pro](http://itunes.apple.com/us/app/practice-pro/id405586401?mt=8): iOS software that lets you slow down and loop sections of recordings for transcription and learning.
-- [Wittner "Suzuki Style" violin fine tuners (Model
-  #901)](http://www.wittner-gmbh.de/cgi-bin/db_search_e.pl?rubrik=String%20Adjusters%20for%20Violin&gruppe=String%20Adjusters):
-  Remove all the tuning beads from your sitar and add these fine
-  tuners to all 6 (or 7) of your main playing strings. Prepare to
-  enter Sitar Tuning Nirvana! They solve all the tuning headaches from
-  having to struggle with friction pegs. Unlike other violin fine
-  tuners, "Suzuki style" tuners attach directly to the strings and
-  don't require a supporting bridge or any modification to the sitar.
-  They can sometimes be difficult to find, but try your luck at Amazon
-  and Ebay.[Lemuel Violins](https://www.violins.ca/accessories/fine_tuners.html) in Canada seems to have consistent
-  stock, and is usually where I order mine from (Lemuel Violins ships
-  internationally.) Wittner is the best brand on the market, and won't rust or jam. 
+- [Wittner "Suzuki Style" violin fine tuners (Model #901)](http://www.wittner-gmbh.de/cgi-bin/db_search_e.pl?rubrik=String%20Adjusters%20for%20Violin&gruppe=String%20Adjusters): Remove all the tuning beads from your sitar and add these fine tuners to all 6 (or 7) of your main playing strings. Prepare to enter Sitar Tuning Nirvana! They solve all the tuning headaches from having to struggle with friction pegs. Unlike other violin fine tuners, "Suzuki style" tuners attach directly to the strings and don't require a supporting bridge or any modification to the sitar. They can sometimes be difficult to find, but try your luck at Amazon and Ebay.[Lemuel Violins](https://www.violins.ca/accessories/fine_tuners.html) in Canada seems to have consistent stock, and is usually where I order mine from (Lemuel Violins ships internationally.) Wittner is the best brand on the market, and won't rust or jam. 
 
 ###Microphones and pickups for recording and performing
 
-The [Senheizer MD421
-Microphone](http://en-us.sennheiser.com/recording-microphone-broadcasting-applications-md-421-ii)
-is possibly the best microphone ever made. And certainly, it's the best for
-recording a sitar in a studio or amplifying it on stage. Why? It's like an acoustic mirror: it's warm, clear, totally transparent, and sensitive enough to pick up the complexity, detail and wide dynamic tonal range of a sitar. It's also the only microphone I've ever used in which the recording didn't require EQ, compression or reverb to add body and presence to the tone - it's perfect right out of the box. If your playing sounds bad through an MD421 - it's because your playing is bad! 
+The [Senheizer MD421 Microphone](http://en-us.sennheiser.com/recording-microphone-broadcasting-applications-md-421-ii) is possibly the best microphone ever made. And certainly, it's the best for recording a sitar in a studio or amplifying it on stage. Why? It's like an acoustic mirror: it's warm, clear, totally transparent, and sensitive enough to pick up the complexity, detail and wide dynamic tonal range of a sitar. It's also the only microphone I've ever used in which the recording didn't require EQ, compression or reverb to add body and presence to the tone - it's perfect right out of the box. If your playing sounds bad through an MD421 - it's because your playing is bad! 
 
 As a bonus, the MD421 is also completely resistant to feedback on stage, so you can use it in most difficult on-stage sound situations where you would otherwise need a pickup. The Senheizer MD421 is the only microphone you'll ever need. Put it in your backpack and travel the world!
 
